@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akramal00" target="blank"><img src="https://img.shields.io/twitter/follow/akramal00?logo=twitter&style=for-the-badge" alt="akramal00" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **React, CSS, Three**
 
