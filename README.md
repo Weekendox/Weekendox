@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/19373923/weekend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="weekend" height="30" width="40" /></a>
 <a href="https://web.facebook.com/weeeking911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weekend akram" height="30" width="40" /></a>
 <a href="https://instagram.com/weekend_ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weekend_ox" height="30" width="40" /></a>
-<a href="https://discord.gg/Weekend#6627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Weekend#6627" height="30" width="40" /></a>
+<a href="https://discord.gg/jap3HK6YhS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Weekend#6627" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
