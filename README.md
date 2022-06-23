@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/XJVKnYd/code.png)
+![MasterHead](https://i.ibb.co/MP27rJD/code.png)
 <h1 align="center">Hi 👋, I'm Akram Allam</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" draggable="false" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif"> 
@@ -32,8 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weekendox&show_icons=true&locale=en&layout=compact" alt="weekendox" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weekendox&show_icons=true&locale=en" alt="weekendox" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weekendox&show_icons=true&locale=en" alt="weekendox" /></p><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weekendox&" alt="weekendox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weekendox&" alt="weekendox" /></p><br/>
 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/weekendox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/weekendox" /></a></p>
