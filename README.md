@@ -1,7 +1,7 @@
-![MasterHead]()
+![MasterHead](https://i.ibb.co/XJVKnYd/code.png)
 <h1 align="center">Hi 👋, I'm Akram Allam</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif"> 
+<img align="right" alt="Coding" width="400" draggable="false" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weekendox&label=Profile%20views&color=0e75b6&style=flat" alt="weekendox" /> </p>
 
